@@ -13,6 +13,13 @@ I'm currently working on [Trox], a mobile app that [brings a solution to courier
 ## 🌱 What I'm Learning
 I'm always seeking new opportunities to learn and grow as a developer. Currently, I'm learning Jetpack compose for Kotlin.
 
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MrLincon&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+
 ## Connect with me  
 <div align="center">
 <a href="https://twitter.com/iamrishavanand" target="_blank">
@@ -33,11 +40,3 @@ I'm always seeking new opportunities to learn and grow as a developer. Currently
 </div>  
  
 <br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MrLincon&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
