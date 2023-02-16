@@ -1,27 +1,17 @@
 
-Hi there! 👋 I'm [Your Name]!
+# Hi there! 👋 I'm [Ahamed Lincon]!
 
-I'm a passionate and dedicated software developer with experience in native Android development using Java and Kotlin. With a keen eye for design and a flair for creativity, I love developing mobile apps that not only look great but also provide a seamless user experience.
-🚀 My Skills
+I'm a passionate and dedicated software developer with 4+ years of experience in native Android development using Java and about a year of experience working with Kotlin. With a keen eye for design and a flair for creativity, I love developing mobile apps that not only look great but also provide a seamless user experience.
 
-    Languages: Java, Kotlin
-    Tools: Firebase, RESTful APIs, Adobe Illustrator, Figma, Adobe XD
+## 🚀 My Skills
+- **Languages:** Java, Kotlin
+- **Tools:** Firebase, RESTful APIs, Adobe Illustrator, Figma, Adobe XD
 
-🔭 What I'm Currently Working On
+## 🔭 What I'm Currently Working On
+I'm currently working on [Trox], a mobile app that [brings a solution to courier service businesses]. I'm excited about the potential of this project and am looking forward to sharing it with the world soon!
 
-I'm currently working on [Project Name], a mobile app that [Brief Description of Project]. I'm excited about the potential of this project and am looking forward to sharing it with the world soon!
-🌱 What I'm Learning
-
-I'm always seeking new opportunities to learn and grow as a developer. Currently, I'm diving deeper into [Technology/Concept], and I'm looking forward to using it in future projects.
-📫 Let's Connect
-
-I'm always open to new opportunities and collaborations. Feel free to reach out to me on [LinkedIn/Twitter/Email], and let's connect!
-🎉 Fun Fact
-
-When I'm not developing mobile apps, you'll find me [Fun Fact].
-
-Thanks for checking out my profile, and I look forward to connecting with you soon!
-
+## 🌱 What I'm Learning
+I'm always seeking new opportunities to learn and grow as a developer. Currently, I'm learning Jetpack compose for Kotlin.
 
 ## Connect with me  
 <div align="center">
@@ -41,8 +31,7 @@ Thanks for checking out my profile, and I look forward to connecting with you so
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
+ 
 <br/>  
 
 
@@ -50,12 +39,6 @@ Thanks for checking out my profile, and I look forward to connecting with you so
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MrLincon&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
 
 <br/>  
 
