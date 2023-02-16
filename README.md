@@ -13,9 +13,7 @@ I'm currently working on Trox, a mobile app that brings a solution to courier se
 ## 🌱 What I'm Learning
 I'm always seeking new opportunities to learn and grow as a developer. Currently, I'm learning Jetpack compose for Kotlin.
 
-## 🌱 What I'm Learning
 <h3 align="left">Languages and Tools:</h3>
-
 ### Frontend  
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
