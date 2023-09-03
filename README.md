@@ -8,7 +8,7 @@ I'm a passionate and dedicated software developer with 4+ years of experience in
 - **Tools:** Firebase, RESTful APIs, Adobe Illustrator, Figma, Adobe XD
 
 ## 🔭 What I'm Currently Working On
-I'm currently working on Trox, a mobile app that brings a solution to courier service businesses. I'm excited about the potential of this project and am looking forward to sharing it with the world soon!
+I'm currently working on QuizKwik, a quize app with thousands of quizes, multiple quiz models, leaderboard, weekly winner and a lots of feature!
 
 ## 🌱 What I'm Learning
 I'm always seeking new opportunities to learn and grow as a developer. Currently, I'm learning Jetpack compose for Kotlin.
