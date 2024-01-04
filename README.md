@@ -4,8 +4,9 @@
 I'm a passionate and dedicated software developer with 4+ years of experience in native Android development using Java and about a year of experience working with Kotlin. With a keen eye for design and a flair for creativity, I love developing mobile apps that not only look great but also provide a seamless user experience.
 
 ## 🚀 My Skills
-- **Languages:** Java, Kotlin
-- **Tools:** Firebase, RESTful APIs, Adobe Illustrator, Figma, Adobe XD
+- **Working Area:** Native Android Development(Java, Kotlin), Flutter, Ktor, Flask(Python)
+- **Languages:** Java, Kotlin, Dart, Python
+- **Tools:** Firebase, MongoDB, MySQL, Postman, RESTful APIs, Figma, Adobe XD
 
 ## 🔭 What I'm Currently Working On
 I'm currently working on QuizKwik, a quize app with thousands of quizes, multiple quiz models, leaderboard, weekly winner and a lots of feature!
