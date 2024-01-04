@@ -4,7 +4,7 @@
 I'm a passionate and dedicated software developer with 4+ years of experience in native Android development using Java and about a year of experience working with Kotlin. With a keen eye for design and a flair for creativity, I love developing mobile apps that not only look great but also provide a seamless user experience.
 
 ## 🚀 My Skills
-- **Working Area:** Native Android Development(Java, Kotlin), Flutter, Ktor, Flask(Python)
+- **Working Area:** Native Android Development(Java, Kotlin), Flutter, Ktor, Flask
 - **Languages:** Java, Kotlin, Dart, Python
 - **Tools:** Firebase, MongoDB, MySQL, Postman, RESTful APIs, Figma, Adobe XD
 
